@@ -39,7 +39,7 @@ export default {
     },
     footer: {
       disclaimer: "Diese Software ist von Ankama verboten, wie in ihren {tos} festgelegt, Artikel 5.2, einschließlich ihrer Nutzung und ihres Beitrags zu ihrer Entwicklung. Bitte denken Sie daran, sie fair zu nutzen, vermeiden Sie toxisches Verhalten im Spiel und riskieren Sie nicht, dass Ihr Konto gesperrt wird",
-      tos_url: "https://www.dofus-touch.com/de/cgu",
+      tos_url: "https://www.dofus-touch.com/en/tou",
       tos_text: "Nutzungsbedingungen",
       copyright: "© 2020 Das Lindo-Team",
       credits: "Website erstellt von {clover}.",
