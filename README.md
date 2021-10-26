@@ -1,3 +1,3 @@
 # Lindo website texts
 
-Translation files of http://lindo.no-emu.co
+Translation files of https://lindo-app.com
